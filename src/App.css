@@ -47,6 +47,11 @@ span:hover {
   flex-direction: column;
 }
 
+.patientRow:hover {
+  cursor: pointer;
+  color: blue !important;
+}
+
 .active {
   color:blue;
   border-color: blue;
